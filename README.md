@@ -1,3 +1,44 @@
+# Pokedex
+This is a Pokedex App like in the anime Series.
+
+# Features
+<br/>
+<b>1. Search for a Pokemon:</b> This lets you Search for a particular pokemon.
+<br/><br/>
+<b>2.Show Image:</b> This app also displays the picture of all valid pokemon searched. It also offer user to toggle between Shiny and Non Shiny Variant of that pokemon. To see shiny simply click on Star button
+<br/><br/>
+<b>3.Type:</b> This app gives brief info about the displayed and searched pokemon on the pokedex screen.
+<br/><br/>
+<b>4.Speak:</b> One more feature of this app is that it speaks out loud whatever is written on the screen about the pokemon.<br/><br/>
+
+# ScreenShots
+
+<b>Default Screen</b>
+
+![Screenshot 2023-08-11 013717](https://github.com/akshat231/Pokedex/assets/56781907/f2c021eb-297b-417c-a58e-827d0d00b6ee)
+
+<b>Searched Screen</b>
+
+![Screenshot 2023-08-11 013755](https://github.com/akshat231/Pokedex/assets/56781907/3f0f10fc-b062-4d3b-8348-f264bcdd4ae0)
+
+<b>Shiny Screen</b>
+
+![Screenshot 2023-08-11 013854](https://github.com/akshat231/Pokedex/assets/56781907/39cd6fd2-bc63-40dd-a29a-c8b91bf3b127)
+
+# Credits
+
+Api Credit: https://pokeapi.co/
+
+CSS credit: https://codepen.io/Bidji/pen/MYdPwo
+<br/>
+Some Changes are made to Design to accumulate new and dynamic data from api.
+
+
+# Deployed
+
+Site has been deployed on netlify at: https://64d5432381dfd20bbd95e274--trainerpokedex.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
